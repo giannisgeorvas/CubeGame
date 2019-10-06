@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 218b0ccc7a826024db9986b134068167
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - score: {instanceID: 0}
+  - cube: {fileID: 1729486584143544, guid: ee2e0ea0712625e47ada070434136e33, type: 2}
+  - cylinder: {fileID: 1728758135724218, guid: c175b833d48b3c2408da8e9692ffb527, type: 2}
+  - body: {fileID: 1765094181718816, guid: e19072079925a6241b0072621c3a2496, type: 2}
+  - camera: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
